@@ -7,6 +7,10 @@ Each topic is saved as a separate Markdown file for clarity and easy navigation.
 ## 📚 Topics Covered So Far
 
 - [01 – Introduction to Cloud Engineering](01_cloud_engineering_intro.md)
+- [02 – Operating_Systems_and_Linux](02_operating_systems_and_linux.md)
+- [03 – Linux_Commands](03_linux_commands.md)
+- [03 – Text_Editors.md](04_text_editors.md)
+
 
 More topics will be added as I continue learning.
 
