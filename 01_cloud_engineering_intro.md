@@ -74,3 +74,51 @@ To be a solid cloud/DevOps engineer, you need to know:
 #### 6. Cloud Security
 - Protects data and applications with **IAM**, **encryption**, and **firewalls**.
 - Ensures compliance with security best practices.
+
+### Cloud Service Models (IaaS, PaaS, SaaS)
+Cloud computing offers services in different models depending on how much control and responsibility the user wants. The three main cloud service models are IaaS, PaaS, and SaaS.
+
+### 1. IaaS – Infrastructure as a Service
+
+IaaS provides basic infrastructure like virtual machines, storage, and networks. You manage the operating system and applications.
+
+- **Simple Example:**
+Like renting an empty house. You must bring your furniture and arrange everything yourself.
+
+- **Real Cloud Examples:**
+  Amazon EC2 (AWS), Google Compute Engine (GCP), Microsoft Azure Virtual Machines.
+
+- **Who Uses IaaS:**
+System administrators, DevOps engineers, or anyone who wants full control over the infrastructure.
+
+### 2. PaaS – Platform as a Service
+PaaS provides a ready-made platform for developers to build, test, and deploy applications. You don’t manage servers or the operating system — only your app.
+
+- **Simple Example:**
+Like renting a fully furnished apartment. You just move in and start living.
+- **Real Cloud Examples:**
+Heroku, Google App Engine, Microsoft Azure App Service.
+
+- **Who Uses PaaS:**
+App developers who want to focus on writing code, not managing infrastructure.
+
+### 3. SaaS – Software as a Service
+- **What It Is:**
+SaaS provides fully functional software accessed via the internet. You don’t manage anything — you just use the software.
+- **Simple Example:**
+Like using a taxi service. You don’t own or maintain the car — you just use it.
+- **Real Cloud Examples:**
+Gmail, Microsoft Office 365, Dropbox, Zoom.
+
+- **Who Uses SaaS:**
+Everyone — individuals and businesses use SaaS apps daily for email, storage, collaboration, etc.
+
+### Summary (In Plain English)
+- Use IaaS when you want full control and can manage servers yourself.
+
+
+- Use PaaS when you want to focus on building apps, not managing infrastructure.
+
+
+- Use SaaS when you just want to use the software without worrying about setup or maintenance.
+
