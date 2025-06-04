@@ -15,6 +15,9 @@ Each topic is saved as a separate Markdown file for clarity and easy navigation.
 - [07 – Linux Filesystems and storage.md](07_linux_filesystems_and_storage.md)
 - [08 – Linux Packaging.md](08_linux_packaging.md)
 - [09 – Git and Git Commands.md](09_git_and_git_commands.md)
+- [10 – SystemD.md](10_systemd.md)
+- [11 – Uncomplicated Firewall.md](11_ufw.md)
+- [12 – Bash Scripting.md](12_bash_scripting.md)
 
 More topics will be added as I continue learning.
 
